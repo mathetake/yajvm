@@ -1,0 +1,12 @@
+class_name: "AllBasicTypesParams"
+cases:
+  - args: []
+    stdout: |
+      false
+      6
+      12
+      B
+      18
+      24
+      30
+      36

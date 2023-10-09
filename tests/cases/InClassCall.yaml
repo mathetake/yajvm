@@ -1,0 +1,21 @@
+class_name: "InClassCall"
+cases:
+  - args: ["a", "b"]
+    stdout: |
+      4
+      a
+      b
+      2
+      true
+      false
+  - args: ["a", "b", "", "", ""]
+    stdout: |
+      10
+      a
+      b
+      
+      
+      
+      5
+      true
+      false

@@ -1,0 +1,28 @@
+class_name: "Integers"
+cases:
+  - args: []
+    stdout: |
+      Boolean
+      1
+      0
+      1
+      0
+      1
+      Byte
+      127
+      -128
+      -128
+      127
+      -2
+      Short
+      32767
+      -32768
+      -32768
+      32767
+      -2
+      Char
+      0
+      65535
+      65535
+      0
+      128

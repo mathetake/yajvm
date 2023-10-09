@@ -1,0 +1,20 @@
+class_name: "Comparisons"
+cases:
+  - args: []
+    stdout: |
+      ==Integer==
+      Greater
+      Smaller
+      Equal
+      ==Long==
+      Greater
+      Smaller
+      Equal
+      ==Float==
+      Greater
+      Smaller
+      Equal
+      ==Double==
+      Greater
+      Smaller
+      Equal

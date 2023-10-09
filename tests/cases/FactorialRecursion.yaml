@@ -1,0 +1,5 @@
+class_name: "FactorialRecursion"
+cases:
+  - args: []
+    stdout: |
+      120

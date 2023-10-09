@@ -1,0 +1,5 @@
+class_name: "StringConstReturn"
+cases:
+  - args: []
+    stdout: |
+      FOO

@@ -1,0 +1,6 @@
+class_name: "NestedMethodCalls"
+cases:
+  - args: []
+    stdout: |
+      14
+      17

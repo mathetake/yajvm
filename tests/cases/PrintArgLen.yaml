@@ -1,0 +1,8 @@
+class_name: "PrintArgLen"
+cases:
+  - args: []
+    stdout: |
+      0
+  - args: ["", "", ""]
+    stdout: |
+      3

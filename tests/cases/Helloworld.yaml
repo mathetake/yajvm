@@ -1,0 +1,5 @@
+class_name: "HelloWorld"
+cases:
+  - args: []
+    stdout: |
+      Hello, World!

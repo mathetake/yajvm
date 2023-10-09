@@ -1,0 +1,11 @@
+class_name: "PrintArgs"
+cases:
+  - args: []
+    stdout: ""
+  - args: ["Hello, World!"]
+    stdout: |
+      Hello, World!
+  - args: ["🐶", "🐱"]
+    stdout: |
+      🐶
+      🐱
